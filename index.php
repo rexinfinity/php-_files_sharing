@@ -26,5 +26,4 @@ if ($files){
 }
 echo "There were $filecount files are hosted";
 ?>
-<br><br><br><a href="http://ydtaexmzjs5wokbafe5venp32zr7jj3q6ioaj2f3rc2ak7flde5ldpqd.onion/">Create a free website on tor</a>
 </center>
